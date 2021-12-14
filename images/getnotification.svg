@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <filter id="Rectangle_2183" x="0" y="0" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9378" data-name="Group 9378" transform="translate(-29 -237)">
+    <g id="Group_9377" data-name="Group 9377">
+      <g transform="matrix(1, 0, 0, 1, 29, 237)" filter="url(#Rectangle_2183)">
+        <rect id="Rectangle_2183-2" data-name="Rectangle 2183" width="22" height="22" rx="4" transform="translate(9 6)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-md-notifications" data-name="Icon ionic-md-notifications" d="M12.151,18.8a1.544,1.544,0,0,0,1.536-1.543H10.616A1.544,1.544,0,0,0,12.151,18.8Zm4.991-4.628V9.931A5,5,0,0,0,13.3,5.072v-.54a1.152,1.152,0,1,0-2.3,0v.54A5,5,0,0,0,7.161,9.931v4.242L5.625,15.716v.771H18.678v-.771Z" transform="translate(36.848 242.912)" fill="#d00010"/>
+  </g>
+</svg>

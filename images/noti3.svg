@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <filter id="Rectangle_2190" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9385" data-name="Group 9385" transform="translate(-31 -245)">
+    <g transform="matrix(1, 0, 0, 1, 31, 245)" filter="url(#Rectangle_2190)">
+      <rect id="Rectangle_2190-2" data-name="Rectangle 2190" width="42" height="42" rx="4" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="search-svgrepo-com_2_" data-name="search-svgrepo-com (2)" transform="translate(35.66 246.058)">
+      <g id="Group_9329" data-name="Group 9329" transform="translate(10.9 11)">
+        <path id="Path_11853" data-name="Path 11853" d="M126.236,55.844a3.53,3.53,0,0,0,3.436-3.472,3.437,3.437,0,1,0-3.436,3.472Zm0-5.641a2.251,2.251,0,0,1,2.21,2.234,2.211,2.211,0,1,1-2.21-2.234Z" transform="translate(-116.204 -46.666)" fill="#d00010"/>
+        <path id="Path_11854" data-name="Path 11854" d="M39.028,35.562l-6.566-6.637-1.4,1.421-2.5-2.529a10.031,10.031,0,1,0-7.6,3.519,9.975,9.975,0,0,0,6.749-2.629l2.487,2.517-1.35,1.362,6.5,6.637a2.893,2.893,0,0,0,3.684,0A2.6,2.6,0,0,0,39.028,35.562ZM12.073,21.168A8.883,8.883,0,1,1,27.711,27a5.849,5.849,0,0,0-5.794-5.264H19.889a5.848,5.848,0,0,0-5.782,5.152,9,9,0,0,1-2.034-5.718Zm3.212,6.908v-.454a4.662,4.662,0,0,1,4.6-4.651h2.028a4.662,4.662,0,0,1,4.6,4.651v.548a8.816,8.816,0,0,1-11.235-.094ZM38.109,38.35a1.406,1.406,0,0,1-1.9,0L30.5,32.58l1.9-1.922,5.706,5.771a1.318,1.318,0,0,1,0,1.922Z" transform="translate(-10.9 -11)" fill="#d00010"/>
+      </g>
+    </g>
+  </g>
+</svg>

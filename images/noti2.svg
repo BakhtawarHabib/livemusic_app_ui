@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <filter id="Rectangle_2173" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9386" data-name="Group 9386" transform="translate(-31 -169)">
+    <g transform="matrix(1, 0, 0, 1, 31, 169)" filter="url(#Rectangle_2173)">
+      <rect id="Rectangle_2173-2" data-name="Rectangle 2173" width="42" height="42" rx="4" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="wallet-svgrepo-com" transform="translate(49.711 179.066)">
+      <g id="Group_9289" data-name="Group 9289" transform="translate(0)">
+        <path id="Path_11793" data-name="Path 11793" d="M64.508,103.125h-5.4v1.08h5.4a1.622,1.622,0,0,1,1.62,1.62V108a2.672,2.672,0,0,0-1.62-.554H47.231a1.62,1.62,0,0,1,0-3.24H53.17v-1.08H47.231a2.7,2.7,0,0,0-2.7,2.7v15.658a2.7,2.7,0,0,0,2.7,2.7H64.508a2.7,2.7,0,0,0,2.7-2.7V105.825A2.7,2.7,0,0,0,64.508,103.125Zm1.62,15.658H59.649a2.7,2.7,0,1,1,0-5.4h6.479Zm0-6.479H59.649a3.78,3.78,0,0,0,0,7.559h6.479v1.62a1.622,1.622,0,0,1-1.62,1.62H47.231a1.622,1.622,0,0,1-1.62-1.62v-13.5a2.686,2.686,0,0,0,1.62.541H64.508a1.622,1.622,0,0,1,1.62,1.62Z" transform="translate(-44.531 -91.247)" fill="#d00010"/>
+        <rect id="Rectangle_2128" data-name="Rectangle 2128" width="17.278" height="1.08" transform="translate(2.7 14.038)" fill="#d00010"/>
+        <circle id="Ellipse_606" data-name="Ellipse 606" cx="4.319" cy="4.319" r="4.319" transform="translate(7.019 5.939)" fill="#d00010"/>
+        <path id="Path_11794" data-name="Path 11794" d="M126.918,65.8h-1.08a.541.541,0,0,1-.54-.54h-1.08a1.622,1.622,0,0,0,1.62,1.62v.54h1.08v-.54a1.62,1.62,0,1,0,0-3.24h-1.08a.54.54,0,1,1,0-1.08h1.08a.541.541,0,0,1,.54.54h1.08a1.622,1.622,0,0,0-1.62-1.62v-.54h-1.08v.54a1.62,1.62,0,0,0,0,3.24h1.08a.54.54,0,1,1,0,1.08Z" transform="translate(-115.039 -53.918)" fill="#fff"/>
+        <path id="Path_11795" data-name="Path 11795" d="M161.719,203.182a1.62,1.62,0,1,0,1.62-1.62A1.622,1.622,0,0,0,161.719,203.182Zm2.16,0a.54.54,0,1,1-.54-.54A.541.541,0,0,1,163.879,203.182Z" transform="translate(-148.221 -178.345)" fill="#d00010"/>
+        <rect id="Rectangle_2129" data-name="Rectangle 2129" width="1.08" height="4.319" transform="translate(10.799)" fill="#d00010"/>
+        <rect id="Rectangle_2130" data-name="Rectangle 2130" width="1.08" height="4.319" transform="translate(14.578 1.62)" fill="#d00010"/>
+        <rect id="Rectangle_2131" data-name="Rectangle 2131" width="1.08" height="3.24" transform="translate(7.019 2.7)" fill="#d00010"/>
+      </g>
+    </g>
+  </g>
+</svg>

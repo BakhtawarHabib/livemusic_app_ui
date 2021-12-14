@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <filter id="Ellipse_553" x="0" y="0" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9378" data-name="Group 9378" transform="translate(-345 -107)">
+    <g transform="matrix(1, 0, 0, 1, 345, 107)" filter="url(#Ellipse_553)">
+      <circle id="Ellipse_553-2" data-name="Ellipse 553" cx="6.5" cy="6.5" r="6.5" transform="translate(9 6)" fill="#d00010"/>
+    </g>
+    <path id="Icon_ionic-ios-arrow-round-back" data-name="Icon ionic-ios-arrow-round-back" d="M13.434,11.39a.493.493,0,0,0,0,.694l2.288,2.3-7.351,0a.49.49,0,0,0,0,.98l7.351,0-2.292,2.3a.5.5,0,0,0,0,.694.488.488,0,0,0,.69,0l3.106-3.129h0a.55.55,0,0,0,.1-.155.468.468,0,0,0,.038-.188.491.491,0,0,0-.139-.343L14.121,11.4A.48.48,0,0,0,13.434,11.39Z" transform="translate(347.876 104.629)" fill="#fff"/>
+  </g>
+</svg>

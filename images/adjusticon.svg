@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.138" height="40.216" viewBox="0 0 45.138 40.216">
+  <defs>
+    <filter id="Path_10549" x="0" y="16.941" width="31.438" height="19.674" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_10550" x="23.538" y="16.941" width="21.6" height="19.674" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_10553" x="15.741" y="13.341" width="26.875" height="26.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="levels-adjust-svgrepo-com_2_" data-name="levels-adjust-svgrepo-com (2)" transform="translate(36.138) rotate(90)">
+    <g id="Group_8949" data-name="Group 8949" transform="translate(3.6 0)">
+      <path id="Path_10545" data-name="Path 10545" d="M.837,15.782A.837.837,0,0,1,0,14.945V.837a.837.837,0,1,1,1.675,0V14.945A.837.837,0,0,1,.837,15.782Z" transform="translate(0 11.356)" fill="#d00010"/>
+      <path id="Path_10547" data-name="Path 10547" d="M.837,6.865A.837.837,0,0,1,0,6.028V.837a.837.837,0,1,1,1.675,0V6.028A.837.837,0,0,1,.837,6.865Z" transform="translate(9.67 20.273)" fill="#d00010"/>
+      <path id="Path_10548" data-name="Path 10548" d="M.837,10.728A.837.837,0,0,1,0,9.891V.837a.837.837,0,1,1,1.675,0V9.891A.837.837,0,0,1,.837,10.728Z" transform="translate(9.67)" fill="#d00010"/>
+      <g transform="matrix(0, -1, 1, 0, -3.6, 36.14)" filter="url(#Path_10549)">
+        <path id="Path_10549-2" data-name="Path 10549" d="M.837,13.438A.837.837,0,0,1,0,12.6V.837a.837.837,0,1,1,1.674,0V12.6A.837.837,0,0,1,.837,13.438Z" transform="translate(22.44 22.94) rotate(90)" fill="#d00010"/>
+      </g>
+      <g transform="matrix(0, -1, 1, 0, -3.6, 36.14)" filter="url(#Path_10550)">
+        <path id="Path_10550-2" data-name="Path 10550" d="M.837,3.6C.375,3.6,0,3.427,0,3.213V.387C0,.173.375,0,.837,0s.837.173.837.387V3.213C1.674,3.427,1.3,3.6.837,3.6Z" transform="translate(36.14 22.94) rotate(90)" fill="#d00010"/>
+      </g>
+    </g>
+    <g id="Group_8950" data-name="Group 8950" transform="translate(0 0)">
+      <path id="Path_10551" data-name="Path 10551" d="M4.438,8.875A4.438,4.438,0,1,1,8.875,4.438,4.443,4.443,0,0,1,4.438,8.875Zm0-7.2A2.763,2.763,0,1,0,7.2,4.438,2.766,2.766,0,0,0,4.438,1.675Z" fill="#d00010"/>
+      <path id="Path_10552" data-name="Path 10552" d="M4.438,8.875a4.436,4.436,0,1,1,3.887-2.3A.837.837,0,1,1,6.859,5.77,2.763,2.763,0,1,0,4.438,7.2a.837.837,0,1,1,0,1.675Z" transform="translate(9.67 13.072)" fill="#d00010"/>
+    </g>
+    <g transform="matrix(0, -1, 1, 0, 0, 36.14)" filter="url(#Path_10553)">
+      <path id="Path_10553-2" data-name="Path 10553" d="M4.438,8.875A4.438,4.438,0,1,1,8.875,4.438,4.442,4.442,0,0,1,4.438,8.875Zm0-7.2A2.763,2.763,0,1,0,7.2,4.438,2.766,2.766,0,0,0,4.438,1.675Z" transform="translate(33.62 19.34) rotate(90)" fill="#d00010"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="163.697" height="142.009" viewBox="0 0 163.697 142.009">
+  <defs>
+    <filter id="Icon_simple-applemusic" x="51.938" y="45.096" width="59.821" height="59.816" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9319" data-name="Group 9319" transform="translate(-147.54 -117)">
+    <circle id="Ellipse_632" data-name="Ellipse 632" cx="35.002" cy="35.002" r="35.002" transform="translate(194.296 154.002)" fill="#d00010"/>
+    <g id="Icon_feather-wifi" data-name="Icon feather-wifi" transform="translate(307.737 138.726) rotate(90)">
+      <path id="Path_11844" data-name="Path 11844" d="M0,12.288a53.052,53.052,0,0,1,67.906,0" transform="translate(17.266 24.112)" fill="none" stroke="#d00010" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_11845" data-name="Path 11845" d="M0,19.279a77.166,77.166,0,0,1,102.052,0" transform="translate(0)" fill="none" stroke="#d00010" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_11847" data-name="Path 11847" d="M0,0" transform="translate(50.836 61.31)" fill="none" stroke="#d00010" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+    <g id="Icon_feather-wifi-2" data-name="Icon feather-wifi" transform="translate(212.35 138.726) rotate(90)">
+      <path id="Path_11844-2" data-name="Path 11844" d="M0,0A53.052,53.052,0,0,0,67.906,0" transform="translate(17.266 24.91)" fill="none" stroke="#d00010" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_11845-2" data-name="Path 11845" d="M0,0A77.166,77.166,0,0,0,102.052,0" transform="translate(0 42.031)" fill="none" stroke="#d00010" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_11847-2" data-name="Path 11847" d="M0,0" transform="translate(50.836 0)" fill="none" stroke="#d00010" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+    <path id="Rectangle_2193" data-name="Rectangle 2193" d="M22.4,0h63a0,0,0,0,1,0,0V0A22.4,22.4,0,0,1,63,22.4H0a0,0,0,0,1,0,0v0A22.4,22.4,0,0,1,22.4,0Z" transform="translate(187.295 119)" fill="#fff"/>
+    <text id="LIVE" transform="translate(230.097 137)" fill="#d00010" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-19.469" y="0">LIVE</tspan></text>
+    <rect id="Rectangle_2194" data-name="Rectangle 2194" width="78.405" height="26.602" rx="10" transform="translate(190.095 232.407)" fill="#fff"/>
+    <text id="MUSIC" transform="translate(228.896 251.807)" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-28.857" y="0">MUSIC</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 147.54, 117)" filter="url(#Icon_simple-applemusic)">
+      <path id="Icon_simple-applemusic-2" data-name="Icon simple-applemusic" d="M41.814,10.671A16.083,16.083,0,0,0,41.4,6.855a8.567,8.567,0,0,0-3.8-5.3A8.751,8.751,0,0,0,34.326.286,18.29,18.29,0,0,0,31.6.024c-.07-.005-.145-.017-.216-.023H10.433c-.265.017-.528.03-.793.045a12.152,12.152,0,0,0-3.821.7A8.7,8.7,0,0,0,.827,5.59,9.794,9.794,0,0,0,.195,8.043,18.486,18.486,0,0,0,.02,10.1c0,.056-.012.108-.017.162v21.3c.017.244.03.493.047.739a11.467,11.467,0,0,0,.866,4.135,8.679,8.679,0,0,0,5.635,4.882,11.452,11.452,0,0,0,2.253.4c.967.092,1.934.1,2.9.1H30.928a21.782,21.782,0,0,0,2.736-.174,9.3,9.3,0,0,0,4-1.411,8.793,8.793,0,0,0,3.276-3.847,9.655,9.655,0,0,0,.645-2.307,21.3,21.3,0,0,0,.239-3.555q-.005-9.932-.005-19.852ZM30.622,17.623v9.953a4.694,4.694,0,0,1-.425,2.1,3.69,3.69,0,0,1-2.419,1.986,8.041,8.041,0,0,1-1.864.3,3.26,3.26,0,0,1-1.577-6.2A7.433,7.433,0,0,1,26.11,25.2c.659-.143,1.321-.267,1.976-.418a1.076,1.076,0,0,0,.889-.9,1.575,1.575,0,0,0,.035-.336q0-4.744,0-9.484a1.263,1.263,0,0,0-.045-.322.5.5,0,0,0-.53-.408,6.3,6.3,0,0,0-.828.115q-1.986.392-3.973.795l-4.053.819-2.394.484c-.028.005-.056.017-.084.023a.785.785,0,0,0-.68.854c0,.073,0,.15,0,.227q-.005,6.8-.005,13.6a5.342,5.342,0,0,1-.375,2.138,3.71,3.71,0,0,1-2.5,2.148,7.741,7.741,0,0,1-1.873.3,3.206,3.206,0,0,1-3.346-2.69,3.251,3.251,0,0,1,2.011-3.616,10.277,10.277,0,0,1,1.931-.54c.5-.1,1-.2,1.5-.308a1.212,1.212,0,0,0,1.045-1.244v-.261q0-7.737,0-15.477a2.772,2.772,0,0,1,.073-.645,1.209,1.209,0,0,1,.951-.9c.444-.115.9-.2,1.349-.288,1.277-.261,2.554-.516,3.833-.774l3.955-.8c1.167-.233,2.335-.47,3.5-.7A10.578,10.578,0,0,1,29.634,6.4a.859.859,0,0,1,.965.84,3.581,3.581,0,0,1,.021.389q.005,4.992,0,9.988Z" transform="translate(60.94 51.09)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
